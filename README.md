@@ -1,4 +1,4 @@
-##🎄 Animated ASCII Christmas Tree in Python
+##  Animated ASCII Christmas Tree in Python 🎄
 
 This Python script creates a festive animated Christmas tree with falling snow and a sparkling star at the top — all in your terminal! ✨
 
@@ -6,15 +6,15 @@ You can also customize colors, tree height, and snow effects.
 
 ## Features
 
-Animated falling snow
+--Animated falling snow
 
-Colored tree with random ornaments
+--Colored tree with random ornaments
 
-Star on top of the tree
+--Star on top of the tree
 
-Customizable colors, height, and width
+--Customizable colors, height, and width
 
-Runs in Windows, Linux, and macOS terminals
+--Runs in Windows, Linux, and macOS terminals
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ run it via executing or typing a cmd like
 ``` bash 
 python christmas_tree.py
 ```
-## 🎨 Customization
+##  Customization🎨
 Change Tree Height and Width
 
 At the top of the script:
@@ -83,7 +83,7 @@ Decrease the value (e.g., 0.2) to make the animation faster.
 
 Increase the value (e.g., 1) to slow it down.
 
-##✨ Screenshots
+## Screenshots works nicely 👍👍👍
 
 <img width="526" height="388" alt="image" src="https://github.com/user-attachments/assets/1608ccd3-6ab6-4fa2-a8df-306a350e8d3e" />
 
